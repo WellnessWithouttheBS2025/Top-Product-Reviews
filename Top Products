@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Affiliate Profit Hub - High-Converting Offers</title>
+    <style>
+        /* ==== MAIN STYLES ==== */
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f8f9fa;
+            color: #333;
+            line-height: 1.6;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        /* ==== HEADER ==== */
+        header {
+            background: linear-gradient(135deg, #6e48aa 0%, #9d50bb 100%);
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        
+        header h1 {
+            font-size: 2.5rem;
+            margin: 0;
+        }
+        
+        header p {
+            font-size: 1.2rem;
+            opacity: 0.9;
+        }
+        
+        /* ==== EMAIL OPT-IN FORM ==== */
+        .lead-form {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            margin: 40px auto;
+            max-width: 600px;
+            text-align: center;
+        }
+        
+        .lead-form h2 {
+            color: #6e48aa;
+            margin-top: 0;
+        }
+        
+        .lead-form input {
+            width: 100%;
+            padding: 12px;
+            margin: 10px 0;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            font-size: 1rem;
+        }
+        
+        .lead-form button {
+            background: #6e48aa;
+            color: white;
+            border: none;
+            padding: 12px 25px;
+            border-radius: 5px;
+            font-size: 1rem;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+        
+        .lead-form button:hover {
+            background: #9d50bb;
+        }
+        
+        /* ==== AFFILIATE PRODUCTS GRID ==== */
+        .products {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 20px;
+            margin: 40px 0;
+        }
+        
+        .product-card {
+            background: white;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            transition: transform 0.3s;
+        }
+        
+        .product-card:hover {
+            transform: translateY(-5px);
+        }
+        
+        .product-card img {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+        }
+        
+        .product-card .content {
+            padding: 20px;
+        }
+        
+        .product-card h3 {
+            margin-top: 0;
+            color: #6e48aa;
+        }
+        
+        .product-card .btn {
+            display: inline-block;
+            background: #6e48aa;
+            color: white;
+            padding: 10px 15px;
+            border-radius: 5px;
+            text-decoration: none;
+            margin-top: 10px;
+            transition: background 0.3s;
+        }
+        
+        .product-card .btn:hover {
+            background: #9d50bb;
+        }
+        
+        /* ==== FOOTER ==== */
+        footer {
+            background: #333;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+            margin-top: 40px;
+        }
+        
+        footer a {
+            color: #9d50bb;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <!-- HEADER -->
+    <header>
+        <div class="container">
+            <h1>💰 Affiliate Profit Hub</h1>
+            <p>Discover the Hottest Money-Making Offers of 2024!</p>
+        </div>
+    </header>
+    
+    <!-- EMAIL OPT-IN FORM -->
+    <div class="container">
+        <div class="lead-form">
+            <h2>🔓 Get FREE Access to the Best Affiliate Offers!</h2>
+            <p>Join 50,000+ marketers getting exclusive deals & high-converting offers.</p>
+            <form id="emailForm">
+                <input type="text" placeholder="Your Name" required>
+                <input type="email" placeholder="Your Best Email" required>
+                <button type="submit">GET INSTANT ACCESS →</button>
+            </form>
+        </div>
+        
+        <!-- AFFILIATE PRODUCTS GRID -->
+        <h2 style="text-align: center; color: #6e48aa;">🔥 Top Converting Offers</h2>
+        <div class="products">
+            <!-- PRODUCT 1 -->
+            <div class="product-card">
+                <img src="https://via.placeholder.com/600x400?text=Fat+Burner" alt="Fat Burner">
+                <div class="content">
+                    <h3>Liv Pure - Liver Fat Burner</h3>
+                    <p>Doctors baffled by this 5-second hack that melts fat fast!</p>
+                    <a href="https://0b285619p-f-iv26xn-n240x47.hop.clickbank.net" class="btn">GET DISCOUNT →</a>
+                </div>
+            </div>
+            
+            <!-- PRODUCT 2 -->
+            <div class="product-card">
+                <img src="https://via.placeholder.com/600x400?text=Brain+Hack" alt="Brain Hack">
+                <div class="content">
+                    <h3>The Genius Wave</h3>
+                    <p>Neuroscientist's 7-second trick boosts focus & memory!</p>
+                    <a href="https://8f927b3fw6iyes86p7njv8xydx.hop.clickbank.net" class="btn">LEARN SECRET →</a>
+                </div>
+            </div>
+            
+            <!-- PRODUCT 3 -->
+            <div class="product-card">
+                <img src="https://via.placeholder.com/600x400?text=Dating+Hack" alt="Dating Hack">
+                <div class="content">
+                    <h3>Magnetic Messaging</h3>
+                    <p>This 2-minute trick makes her obsessed (works instantly)!</p>
+                    <a href="https://2bdcd02irv9y4tdmyasvll1req.hop.clickbank.net" class="btn">TRY NOW →</a>
+                </div>
+            </div>
+            
+            <!-- PRODUCT 4 -->
+            <div class="product-card">
+                <img src="https://via.placeholder.com/600x400?text=AI+Side+Hustle" alt="AI Side Hustle">
+                <div class="content">
+                    <h3>Remixable AI</h3>
+                    <p>Laid-off dad makes $14,382/month with this AI trick!</p>
+                    <a href="https://22ca8brep1gwcs4gfbkij3y4df.hop.clickbank.net" class="btn">START TODAY →</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- FOOTER -->
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Affiliate Profit Hub | <a href="#">Privacy Policy</a> | <a href="#">Disclaimer</a></p>
+        </div>
+    </footer>
+    
+    <!-- JAVASCRIPT FOR EMAIL COLLECTION -->
+    <script>
+        document.getElementById('emailForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            const name = this.querySelector('input[type="text"]').value;
+            const email = this.querySelector('input[type="email"]').value;
+            
+            // Save to localStorage (or send to your email service)
+            localStorage.setItem('lead', JSON.stringify({ name, email }));
+            
+            alert(`Thanks, ${name}! Check your email for exclusive offers.`);
+            this.reset();
+        });
+    </script>
+</body>
+</html>
